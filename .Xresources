@@ -1,0 +1,32 @@
+!Black 
+URxvt.color0: #000000
+URxvt.color8: #f0f0f0
+!Red
+URxvt.color1: #990099
+URxvt.color9: #8E388E
+!Green
+URxvt.color2: #4E9A06
+URxvt.color10: #699000
+!Yellow
+URxvt.color3: #FFA500
+URxvt.color11: #FFA500
+!Blue
+URxvt.color4: #3465A4
+URxvt.color12: #729FCF
+!Magenta
+URxvt.color5: #75507B
+URxvt.color13: #AD7FA8
+!Cyan
+URxvt.color6: #06989A
+URxvt.color14: #34E2E2
+!White
+URxvt.color7: #FEFEFE
+URxvt.color15: #FEFEFE
+
+URxvt.title: Terminal
+URxvt.scrollBar: false
+URxvt.background: #111111
+URxvt.foreground: #EEEEEE
+URxvt.cursorColor: #608500
+URxvt.cursorBlink: true
+
